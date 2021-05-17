@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://iliasvip.github.io/csb-ygjmf/static/css/main.c0e6afde.chunk.css",
+    "main.js": "https://iliasvip.github.io/csb-ygjmf/static/js/main.b112f7c8.chunk.js",
+    "main.js.map": "https://iliasvip.github.io/csb-ygjmf/static/js/main.b112f7c8.chunk.js.map",
+    "runtime-main.js": "https://iliasvip.github.io/csb-ygjmf/static/js/runtime-main.95510b47.js",
+    "runtime-main.js.map": "https://iliasvip.github.io/csb-ygjmf/static/js/runtime-main.95510b47.js.map",
+    "static/js/2.17a013c3.chunk.js": "https://iliasvip.github.io/csb-ygjmf/static/js/2.17a013c3.chunk.js",
+    "static/js/2.17a013c3.chunk.js.map": "https://iliasvip.github.io/csb-ygjmf/static/js/2.17a013c3.chunk.js.map",
+    "index.html": "https://iliasvip.github.io/csb-ygjmf/index.html",
+    "static/css/main.c0e6afde.chunk.css.map": "https://iliasvip.github.io/csb-ygjmf/static/css/main.c0e6afde.chunk.css.map",
+    "static/js/2.17a013c3.chunk.js.LICENSE.txt": "https://iliasvip.github.io/csb-ygjmf/static/js/2.17a013c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95510b47.js",
+    "static/js/2.17a013c3.chunk.js",
+    "static/css/main.c0e6afde.chunk.css",
+    "static/js/main.b112f7c8.chunk.js"
+  ]
+}
